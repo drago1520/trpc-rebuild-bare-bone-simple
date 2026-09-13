@@ -9,3 +9,6 @@ Features:
 - define routers with procedures
 - procedures with or without input.
 - bare bone bun http server with simple boilerplate html page showcasing the procedures.
+
+### Disclaimer
+I have no official connection to tRPC founder. The code is provided as is.
