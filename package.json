@@ -1,0 +1,13 @@
+{
+  "name": "trpc-proxy-custom",
+  "type": "module",
+  "scripts": {
+    "check": "tsc",
+    "demo": "bun demo/server-side.ts",
+    "test": "tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.2",
+    "typescript": "^5"
+  }
+}
